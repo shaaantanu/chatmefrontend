@@ -1,4 +1,4 @@
-export const host = "https://backendchat-dgh5.onrender.com";
+export const host = "https://chatmebackend-hssi.onrender.com";
 export const registerRoute = `${host}/api/auth/register`;
 export const loginRoute = `${host}/api/auth/login`;
 export const setAvatarRoute = `${host}/api/auth/setAvatar`;
